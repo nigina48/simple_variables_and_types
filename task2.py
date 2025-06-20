@@ -5,3 +5,5 @@
 
 # Print a sentence with your favorite color
 # Your code here: Print "My favorite color is [favorite_color]."
+favorite_color="red"
+print("My favorite color is" , favorite_color)
