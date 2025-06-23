@@ -6,3 +6,8 @@
 
 # Print the sum of num1 and num2
 # Your code here: Print the sum of num1 and num2
+name = 'bultakova'
+name = 'khusanovna'
+num1 = 10
+num2 = 5
+print( num1 + num2)
