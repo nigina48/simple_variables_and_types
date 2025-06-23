@@ -8,4 +8,4 @@
 # Your code here: Print "My best friends are [friend1] and [friend2]."
 friend1 = 'Gulmira'
 friend2 = 'Saffora'
-print(f"My best friends are [friend1] and [friend].")
+print("My best friends are [friend1] and [friend].")
