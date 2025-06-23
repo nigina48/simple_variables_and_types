@@ -6,3 +6,6 @@
 
 # Print their names in the required format
 # Your code here: Print "My best friends are [friend1] and [friend2]."
+friend1 = Gulmira
+friend = Saffora
+print("My best friends are [friend1] and [friend].")
