@@ -5,3 +5,5 @@
 
 # Print a sentence with your height
 # Your code here: Print "My height is [height_cm] cm."
+height_cm = 1.72
+print("My height is", height_cm, "cm.")
